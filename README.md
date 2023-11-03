@@ -1,4 +1,4 @@
-## Pretrained Language Models:
+## Language Modeling:
 - [Adapting Pre-trained Language Models to African Languages via Multilingual Adaptive Fine-Tuning](https://aclanthology.org/2022.coling-1.382/)
 - [Unsupervised Cross-lingual Representation Learning at Scale](https://arxiv.org/abs/1911.02116)
 - [Lifting the Curse of Multilinguality by Pre-training Modular Transformers](https://arxiv.org/abs/2205.06266)
@@ -31,7 +31,7 @@
 - [A Paradigm Shift in Machine Translation: Boosting Translation Performance of Large Language Models](https://arxiv.org/abs/2309.11674)
 - [Extrapolating Large Language Models to Non-English by Aligning Languages](https://arxiv.org/abs/2308.04948)
 
-## Embeddings:
+## Language Embeddings:
 - [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
 - [UNKs Everywhere: Adapting Multilingual Language Models to New Scripts](https://aclanthology.org/2021.emnlp-main.800/)
 - [Improving Pre-Trained Multilingual Models with Vocabulary Expansion](https://arxiv.org/abs/1909.12440)
@@ -65,7 +65,8 @@
 - [Towards a Unified View of Parameter-Efficient Transfer Learning](https://arxiv.org/abs/2110.04366)
 - [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307)
 
-## Retrieval:
+## Neural Information Retrieval:
+- [Passage Re-ranking with BERT](https://arxiv.org/abs/1901.04085)
 - [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906)
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
 - [Baleen: Robust Multi-Hop Reasoning at Scale via Condensed Retrieval](https://arxiv.org/abs/2101.00436)
@@ -79,7 +80,7 @@
 - [Causal Reinforcement Learning: A Survey](https://arxiv.org/abs/2307.01452v1)
 - [Loss of Plasticity in Deep Continual Learning](https://arxiv.org/abs/2306.13812)
 
-## Other:
+## Prompting + Agent LLMs + other:
 - [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
@@ -90,3 +91,5 @@
 - [Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)
 - [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)
 - [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004)
+- [Large Language Models Can Be Easily Distracted by Irrelevant Context](https://arxiv.org/abs/2302.00093)
+- [Lost in the Middle: How Language Models Use Long Context](https://arxiv.org/abs/2302.00093)
